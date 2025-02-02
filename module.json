@@ -1,0 +1,11 @@
+{
+    "name": "menma-brooch-fix",
+    "options": {
+        "niceName": "menma-brooch-fix",
+        "guiName": "menma-brooch-fix",
+        "reloadable": true
+    },
+    "author": "Nocti / Snug / Dominic",
+    "description": "Fixes brooch cooldown displayed on item/shortcut",
+    "disableAutoUpdate": false
+}
