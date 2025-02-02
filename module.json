@@ -7,5 +7,6 @@
     },
     "author": "Nocti / Snug / Dominic",
     "description": "Fixes brooch cooldown displayed on item/shortcut",
+    "servers": ["https://raw.githubusercontent.com/dominic-heil/menma-brooch-fix/main/"],
     "disableAutoUpdate": false
 }
